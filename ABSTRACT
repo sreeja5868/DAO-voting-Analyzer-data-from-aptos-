@@ -1,0 +1,13 @@
+ABSTARCT 
+The advent of decentralized autonomous organizations (DAOs) has revolutionized decision-making in the blockchain ecosystem. 
+DAOs leverage blockchain technology to facilitate trustless voting mechanisms where token holders have a say in the governance of the organization.
+However, analyzing and understanding the voting behavior, trends, and participation rates across multiple DAOs is still an emerging challenge. 
+The problem lies in the difficulty of gaining insights into the voting patterns across different DAOs on the Aptos blockchain, which can be valuable for both governance improvement and participant engagement.
+
+The DAO Voting Pattern Analyzer aims to bridge this gap by analyzing historical voting data from DAOs on the Aptos blockchain. 
+The primary goal is to provide an in-depth understanding of voting trends, participation rates, and the behavior of token holders.
+By aggregating this data, the tool will help identify patterns such as voter engagement, the frequency of participation, and the decision outcomes of each DAO. 
+This analysis can be particularly helpful for participants, developers, and stakeholders aiming to improve governance mechanisms, predict future voting behaviors, and assess the general health of DAOs.
+The system will provide a visual dashboard that displays the voting trends in the form of pie charts and bar graphs, offering a comprehensive view of the data. 
+This will allow users to quickly assess DAO participation rates, identify trends in decision-making, and extract meaningful insights from the historical voting patterns. 
+Ultimately, the tool aims to facilitate more informed governance decisions and encourage active participation in DAOs across the Aptos ecosystem.
